@@ -1,0 +1,12 @@
+MANIFEST.in
+setup.py
+rlxfinance/__init__.py
+rlxfinance/timeseries.py
+rlxfinance/trading.py
+rlxfinance/version.py
+rlxfinance.egg-info/PKG-INFO
+rlxfinance.egg-info/SOURCES.txt
+rlxfinance.egg-info/dependency_links.txt
+rlxfinance.egg-info/not-zip-safe
+rlxfinance.egg-info/requires.txt
+rlxfinance.egg-info/top_level.txt
